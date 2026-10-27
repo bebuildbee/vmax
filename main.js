@@ -5,4 +5,10 @@ const p=document.body.dataset.page,n=document.getElementById('nav');
 n.innerHTML=`<a class="logo" href="index.html">${I}<b>VMax</b></a><ul>${L.map(l=>`<li><a href="${l[0]}"${l[2]==p?' aria-current="page"':''}>${l[1]}</a></li>`).join('')}</ul><a class="btn" href="${LOGIN}">Sign in</a>`;
 const sc=()=>n.classList.toggle('solid',p!=='home'||scrollY>40);sc();addEventListener('scroll',sc,{passive:true});
 document.getElementById('foot').innerHTML=`<img src="assets/allobank.png" alt="Allo Bank"><span>VMax is in use at Allo Bank.</span><nav><a href="${LOGIN}">Sign in</a><a href="support.html">Support</a></nav>`;
-document.querySelectorAll('.vid').forEach(v=>v.addEventListener('click',()=>{const id=v.dataset.drive,im=v.querySelector('img');if(im&&im.naturalWidth)v.style.aspectRatio=im.naturalWidth+'/'+im.naturalHeight;if(id)v.innerHTML=`<iframe src="https://drive.google.com/file/d/${id}/preview" allow="autoplay" allowfullscreen title="VMax video"></iframe>`}));
+document.querySelectorAll('.vid').forEach(v=>{const m=v.querySelector('.media'),h=m.innerHTML;
+const play=()=>{const im=m.querySelector('img');if(im&&im.naturalWidth)m.style.aspectRatio=im.naturalWidth+'/'+im.naturalHeight;m.innerHTML=`<iframe src="https://drive.google.com/file/d/${v.dataset.drive}/preview" allow="autoplay" allowfullscreen title="VMax video"></iframe>`};
+v.shut=()=>{v.classList.remove('open');m.innerHTML=h;m.style.aspectRatio=''};
+v.addEventListener('click',e=>{if(v.classList.contains('open')){if(e.target.closest('.x'))v.shut();return}
+if(m.querySelector('iframe'))return;
+document.querySelectorAll('.vid.open').forEach(o=>o.shut());
+const bp=v.querySelector('.bp');if(bp)v.classList.add('open');play();if(bp)v.scrollIntoView({behavior:'smooth',block:'start'})})});
