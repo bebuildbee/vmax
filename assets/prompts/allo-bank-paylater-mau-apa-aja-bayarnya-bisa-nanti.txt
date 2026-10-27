@@ -1,0 +1,707 @@
+Brand: Allo Bank PayLater
+Format: 9:16 vertical
+Total Story Duration: approximately 40 seconds
+Part Structure:
+- PART 1: 00.0–30.0 seconds
+- PART 2: 00.0–10.0 seconds
+
+IMPORTANT VMAX RULE:
+No individual video generation part may exceed 30 seconds.
+Each part must be independently generatable.
+Part 2 must continue directly from the final visual state of Part 1.
+
+IMPORTANT AUDIO SAFETY RULE:
+Dialogue is part of the creative script, but spoken audio must be handled conservatively.
+Do not generate or invent personal financial information, account numbers, payment credentials,
+transaction records, private customer information, or other sensitive personal data.
+
+If Seedance blocks spoken-audio generation, prioritize:
+- correct visual performance
+- accurate lip movement
+- character reactions
+- natural environmental ambience
+- clean scene timing
+
+The written dialogue remains the intended dialogue for post-production voice replacement/sync.
+
+
+============================================================
+GLOBAL MASTER LOCKS
+============================================================
+
+CHARACTER 1 — CUSTOMER
+Reference: @Image 1
+
+- Exact identity, face, hairstyle and wardrobe from @Image 1
+- Calm, serious, slightly overthinking
+- She genuinely believes everything she asks is reasonable
+- Never plays directly to camera
+- Never behaves as though she knows she is in a comedy
+
+CHARACTER 2 — SHOPKEEPER
+Reference: @Image 2
+
+- Exact identity, face, hairstyle and wardrobe from @Image 2
+- Patient and professional at first
+- Gradually becomes confused
+- Eventually becomes quietly exhausted
+- Never becomes cartoonishly angry
+- Reactions are subtle and slightly delayed
+
+
+============================================================
+LOCATION LOCK
+============================================================
+
+NEIGHBORHOOD SHOP
+Reference: @Image 3
+
+Use the exact location consistently.
+
+Environment:
+- Indonesian neighborhood shop
+- Everyday consumer goods
+- Small appliances
+- Snacks
+- Drinks
+- Household products
+- Umbrellas
+- Slightly cramped but believable
+- Realistic commercial environment
+
+No bank branding.
+No Allo Bank signage.
+No PayLater signage before the product reveal.
+
+
+============================================================
+PRODUCT LOCK
+============================================================
+
+ALLO BANK PAYLATER UI
+Reference: @Image 4
+
+Keep completely hidden during the comedy setup.
+
+When revealed:
+- Use @Image 4 faithfully
+- Preserve exact UI, logo, typography, colors and layout
+- Do not invent financial information
+- Do not invent account details
+- Do not invent transaction details
+- Do not invent customer data
+
+
+============================================================
+SMARTPHONE LOCK
+============================================================
+
+SMARTPHONE
+Reference: @Image 5
+
+Use @Image 5 whenever the designated smartphone prop is required.
+
+Do not replace the phone unnecessarily.
+The Allo Bank PayLater UI shown on the phone must use @Image 4.
+
+DO NOT USE @Image 6.
+
+
+============================================================
+CAMERA LOCK
+============================================================
+
+- Static camera
+- Controlled premium commercial cinematography
+- Medium shots
+- Medium close-ups
+- Close-ups for reaction comedy
+- Clean hard cuts
+- Deliberate reaction shots
+- Stable framing
+
+No zoom, push-in, dolly, orbit, unnecessary camera movement,
+handheld shake or excessive slow motion.
+
+Comedy comes from performance, timing, pauses, reactions and editing.
+
+
+============================================================
+VISUAL STYLE
+============================================================
+
+Premium live-action Indonesian commercial inspired by the deadpan
+escalation, awkward pauses and absurd timing of Thai comedy advertising.
+
+Realistic environment.
+Restrained performances.
+Increasingly ridiculous situation.
+
+Do NOT make it cartoonish.
+
+
+============================================================
+AUDIO MASTER RULES
+============================================================
+
+Use natural Indonesian conversational speech.
+
+Each scene specifies its own dialogue and audio instructions.
+
+Do NOT generate:
+- personal financial information
+- account numbers
+- card numbers
+- PINs
+- passwords
+- payment credentials
+- transaction records
+- private customer information
+- sensitive personal information
+
+Natural sound:
+- refrigerator hum
+- subtle street ambience
+- packaging sounds
+- footsteps
+- shop/counter sounds
+- natural room tone
+
+Music:
+- Minimal quirky texture during escalation
+- Small comedic accents
+- Strategic silence
+- Warm upbeat music for final product reveal
+
+Avoid excessive cartoon sound effects.
+
+
+============================================================
+AUDIO FALLBACK PROTOCOL
+============================================================
+
+If spoken audio generation is accepted:
+- Generate only the exact dialogue specified in each scene.
+- Use natural Indonesian pronunciation.
+- Keep delivery casual and understated.
+- Do not add extra dialogue.
+- Do not add financial or personal information.
+
+If spoken audio generation is rejected:
+- Do NOT change the visual story.
+- Do NOT remove the scene.
+- Do NOT replace the dialogue with unrelated speech.
+- Prioritize accurate acting and lip movement.
+- Generate only safe environmental ambience and non-sensitive sound design.
+- Preserve exact timing for the intended spoken line.
+- Leave clean audio space for post-production voice replacement.
+
+
+============================================================
+PART 1
+THE CUSTOMER WHO JUST WANTS AN UMBRELLA
+============================================================
+
+Duration: 30 seconds maximum
+Target duration: 30 seconds
+
+OBJECTIVE:
+The audience initially believes they are watching an ordinary comedy sketch.
+Do NOT reveal Allo Bank PayLater or its UI during Part 1.
+
+
+------------------------------------------------------------
+00.0–04.0 — THE CUSTOMER ARRIVES
+------------------------------------------------------------
+
+Location: @Image 3
+Customer: @Image 1
+Shopkeeper: @Image 2
+
+Shot:
+Medium-wide static shot.
+
+Action:
+@Image 1 enters naturally, approaches the counter, looks around,
+notices an umbrella and points toward it.
+
+Dialogue:
+
+CUSTOMER — @Image 1:
+"Pak, ada payung?"
+
+SHOPKEEPER — @Image 2:
+"Ada."
+
+Performance:
+Both remain completely normal and professional.
+
+Audio:
+Natural shop ambience, refrigerator hum, subtle street ambience.
+No music yet.
+If speech generation is unavailable, preserve lip movement and timing.
+
+
+------------------------------------------------------------
+04.0–07.0 — THE PRICE
+------------------------------------------------------------
+
+Shot:
+Medium close-up on @Image 1.
+
+CUSTOMER — @Image 1:
+"Berapa?"
+
+Cut to @Image 2.
+
+SHOPKEEPER — @Image 2:
+"Delapan puluh ribu."
+
+Cut back to @Image 1.
+
+Action:
+She looks at the umbrella, then the shopkeeper.
+She pauses slightly longer than socially normal.
+
+Performance:
+Not shocked. She is calculating.
+
+Audio:
+Natural ambience. No music.
+
+
+------------------------------------------------------------
+07.0–11.0 — THE CALCULATION
+------------------------------------------------------------
+
+Shot:
+Close-up on @Image 1.
+
+Action:
+@Image 1 takes out @Image 5.
+This is an ordinary phone interaction.
+Do NOT display @Image 4 yet.
+
+She calculates, stops, deletes, calculates again.
+@Image 2 watches, confused but polite.
+
+Dialogue:
+
+CUSTOMER — @Image 1:
+"Kalau saya bayarnya nanti..."
+
+Pause.
+
+CUSTOMER — @Image 1:
+"...bisa?"
+
+SHOPKEEPER — @Image 2:
+"Bisa."
+
+Comedy beat:
+@Image 1 immediately relaxes, satisfied as though she solved a difficult problem.
+
+Audio:
+Natural shop ambience.
+No personal financial data.
+
+
+------------------------------------------------------------
+11.0–16.0 — FIRST ESCALATION
+------------------------------------------------------------
+
+Location: @Image 3
+Customer: @Image 1
+Shopkeeper: @Image 2
+
+Action:
+@Image 1 looks around and notices larger appliances.
+
+CUSTOMER:
+"Kalau kulkas?"
+
+SHOPKEEPER:
+"Bisa."
+
+CUSTOMER:
+"TV?"
+
+SHOPKEEPER:
+"Bisa."
+
+CUSTOMER:
+"Mesin cuci?"
+
+Longer pause.
+
+SHOPKEEPER:
+"...Bisa."
+
+Performance:
+Customer becomes increasingly confident.
+Shopkeeper becomes increasingly suspicious.
+Neither smiles excessively.
+
+Audio:
+Natural ambience with tiny comedic pauses.
+
+
+------------------------------------------------------------
+16.0–22.0 — THE ABSURD SHOPPING LIST
+------------------------------------------------------------
+
+Use increasingly fast but controlled cuts.
+
+CUSTOMER — @Image 1:
+"AC?"
+
+SHOPKEEPER — @Image 2:
+"Bisa."
+
+Cut.
+
+CUSTOMER:
+"Vacuum?"
+
+SHOPKEEPER:
+"Bisa."
+
+Cut.
+
+CUSTOMER:
+"Microwave?"
+
+SHOPKEEPER:
+"Bisa."
+
+Customer notices another item.
+
+CUSTOMER:
+"Yang itu?"
+
+@Image 2 looks at the item, then back at @Image 1.
+
+Long pause.
+
+SHOPKEEPER:
+"...Bisa."
+
+Comedy principle:
+Shopkeeper answers become shorter.
+Customer confidence becomes higher.
+Situation becomes absurd without becoming cartoonish.
+
+Audio:
+Natural ambience, small comedic accents, strategic pauses.
+
+
+------------------------------------------------------------
+22.0–26.5 — THE QUESTION
+------------------------------------------------------------
+
+Shot:
+Static medium two-shot.
+
+@Image 2 finally stops what he is doing and looks at @Image 1.
+
+SHOPKEEPER — @Image 2:
+"Mbak... sebenarnya mau beli apa?"
+
+Long silence.
+
+@Image 1 looks around.
+
+CUSTOMER — @Image 1:
+"Apa aja."
+
+Reaction:
+@Image 2 freezes.
+
+Audio:
+Music drops out.
+Natural shop ambience remains.
+Hold the silence for comedy.
+
+
+------------------------------------------------------------
+26.5–30.0 — PART 1 CLIFFHANGER
+------------------------------------------------------------
+
+@Image 1 gives a small confident smile and casually looks toward
+the shop products.
+
+CUSTOMER — @Image 1:
+"Kan bayarnya bisa nanti."
+
+Performance:
+She says it as though this completely explains her behavior.
+
+Camera:
+Hold on @Image 2 processing the statement.
+
+Audio:
+Tiny comedic sting, then silence.
+
+EXACT END STATE:
+- @Image 1 remains inside the shop.
+- @Image 2 remains behind the counter.
+- Location remains @Image 3.
+- Same wardrobe, lighting, positions and emotional continuity.
+- @Image 5 is available.
+- @Image 4 has NOT been prominently revealed.
+- Allo Bank branding is NOT visible.
+- PayLater branding is NOT visible.
+
+CUT.
+
+
+============================================================
+PART 2
+THE REASON SHE'S SO DIFFICULT
+============================================================
+
+Duration: 10 seconds
+Maximum allowed: 30 seconds
+Target duration: 10 seconds
+
+
+------------------------------------------------------------
+00.0–02.5 — THE SHOPKEEPER PROCESSES IT
+------------------------------------------------------------
+
+Location: @Image 3
+Customer: @Image 1
+Shopkeeper: @Image 2
+
+Shot:
+Static medium two-shot.
+
+Continuity:
+Start exactly where Part 1 ended.
+
+@Image 2 continues staring at @Image 1.
+@Image 1 remains completely calm.
+
+SHOPKEEPER — @Image 2:
+"...Oh."
+
+Performance:
+Tiny pause. He finally understands.
+
+Audio:
+Natural shop ambience.
+
+
+------------------------------------------------------------
+02.5–05.5 — THE PRODUCT REVEAL
+------------------------------------------------------------
+
+Location: @Image 3
+Customer: @Image 1
+Smartphone: @Image 5
+Product UI: @Image 4
+
+Action:
+@Image 1 takes out @Image 5 and interacts naturally with it.
+The phone display reveals the Allo Bank PayLater UI from @Image 4.
+
+Use the supplied UI faithfully.
+Do not invent financial data, account details or transaction records.
+
+CUSTOMER — @Image 1:
+"Ya... tinggal pakai Allo Bank PayLater."
+
+Delivery:
+Casual, conversational, not like a sales presenter.
+
+Audio if accepted:
+- Generate only this exact dialogue.
+- Natural Indonesian female voice.
+- No additional financial information.
+
+Audio fallback if blocked:
+- Preserve exact lip movement and timing.
+- Use natural phone interaction sounds and shop ambience.
+- Leave clean space for post-production voice replacement.
+
+
+------------------------------------------------------------
+05.5–07.5 — THE SHOPKEEPER GIVES UP
+------------------------------------------------------------
+
+Shot:
+Cut to @Image 2.
+
+Action:
+He looks at @Image 1.
+Looks around the shop.
+Calmly grabs a shopping basket.
+
+SHOPKEEPER — @Image 2:
+"Yaudah... ambil."
+
+Performance:
+Completely deadpan.
+
+Audio:
+Natural ambience and a small light comedic accent.
+
+
+------------------------------------------------------------
+07.5–10.0 — FINAL BRAND FRAME
+------------------------------------------------------------
+
+Action:
+@Image 1 happily starts putting products into the basket.
+
+Hard cut to a clean product-focused composition.
+
+Product:
+@Image 4
+
+Suggested headline:
+MAU SEKARANG. BAYARNYA NANTI.
+
+Brand:
+Allo Bank PayLater
+
+CTA:
+Cek di aplikasi Allo Bank
+
+Keep the final frame clean and premium.
+No additional invented claims.
+No financial figures.
+No account information.
+No transaction information.
+
+Audio:
+Warm upbeat commercial music.
+No additional spoken financial information.
+
+
+============================================================
+GLOBAL NEGATIVE PROMPT
+============================================================
+
+Apply to both parts:
+
+- No identity swap
+- No different faces
+- No character replacement
+- No wardrobe changes
+- No hairstyle changes
+- No location changes
+- No inconsistent shop layout
+- No romantic interaction
+- No unnecessary additional characters
+- No Allo Bank branding before the reveal
+- No PayLater branding before the reveal
+- No product UI before designated reveal
+- No invented UI
+- No invented financial claims
+- No invented product benefits
+- No account numbers
+- No card numbers
+- No PINs
+- No passwords
+- No payment credentials
+- No transaction records
+- No private customer information
+- No sensitive personal information
+- No incorrect logo
+- No random text
+- No misspelled Indonesian
+- No subtitles unless explicitly requested
+- No cartoon acting
+- No slapstick
+- No violence
+- No exaggerated shouting
+- No excessive facial expressions
+- No melodrama
+- No horror
+- No fantasy
+- No surreal environment
+- No zoom
+- No push-in
+- No dolly
+- No orbit
+- No handheld camera
+- No excessive camera shake
+- No continuity breaks
+- No smartphone UI appearing prematurely
+- No @Image 6
+
+
+============================================================
+PART-TO-PART CONTINUITY LOCK
+============================================================
+
+PART 1 ENDS:
+
+Customer @Image 1 has just said:
+"Kan bayarnya bisa nanti."
+
+Shopkeeper @Image 2 is silently processing the statement.
+
+PART 2 BEGINS:
+
+- Same shop: @Image 3
+- Same characters: @Image 1 and @Image 2
+- Same positions
+- Same wardrobe
+- Same lighting
+- Same camera geography
+- Same emotional state
+- Same continuity
+
+DO NOT restart the scene.
+DO NOT change the shop.
+DO NOT change character appearance.
+DO NOT introduce new characters.
+DO NOT change wardrobe.
+
+Continue directly from the final frame of Part 1.
+
+
+============================================================
+CREATIVE NORTH STAR
+============================================================
+
+Audience progression:
+
+0–7 sec:
+"Normal shop scene."
+
+7–16 sec:
+"Why is she making this so complicated?"
+
+16–22 sec:
+"Wait... she's asking for everything?"
+
+22–30 sec:
+"What is this woman doing?"
+
+30–36 sec:
+"Ohhh... THAT'S why."
+
+36–40 sec:
+"Brand + punchline + CTA."
+
+The advertisement should reveal itself as late as possible while still
+allowing the product to land clearly.
+
+The comedy must feel unexpected rather than scripted.
+Characters should behave as though the situation is completely normal.
+
+Do not reveal the brand too early.
+Do not explain the joke.
+Let the pauses, reactions, escalation and final product reveal deliver
+the comedy.
+
+AUDIO PRINCIPLE:
+The visual story is the priority.
+Dialogue is precisely scripted.
+Safe environmental audio should always be preserved.
+If Seedance cannot safely generate spoken dialogue, maintain the
+performance, lip movement, timing and ambience so the exact dialogue
+can be added during post-production.

@@ -1,0 +1,703 @@
+{{MASTER_VIDEO_STRUCTURE}}
+
+TOTAL VIDEO DURATION:
+60 Seconds
+
+VIDEO STRUCTURE:
+PART 1 — FIRST 30 SECONDS
+
+The following is the AUTHORITATIVE Part 1 story and execution timeline.
+Do not invent, paraphrase, reorder, shorten, extend, or add dialogue.
+Part 1 establishes the wedding-cost problem. Mega Rencana is NOT revealed
+during Part 1. The detailed product UI appears only in Part 2.
+
+SCENE 1 — THE CONVERSATION STARTS
+Duration: 00.0s–10.0s
+
+00.0s–03.0s:
+Location: Modern contemporary office, daytime, exactly matching Location 1 = @Image 3.
+Shot: Static medium two-shot, eye-level.
+Position: Character 1 is seated on the LEFT. Character 2 is seated on the RIGHT.
+Action: Character 1 appears distracted and thoughtful, briefly looking down.
+Character 2 notices her expression and turns her attention toward Character 1.
+Expression: Character 1 is slightly worried and thoughtful. Character 2 is relaxed,
+attentive and familiar.
+Body language: Character 1 lightly brings her hands together. Character 2 remains
+comfortable and attentive without dramatic movement.
+Dialogue, Character 2: "Lo kenapa dari tadi diem?"
+Sound: Natural office ambience, distant keyboard activity and quiet room tone.
+Soft cinematic acoustic music begins very subtly.
+Continuity: Maintain exact identities, wardrobe, seating positions and office layout.
+
+03.0s–06.5s:
+Location: Same office.
+Shot: Static medium close-up of Character 1.
+Position: Character 1 remains on the LEFT side of the established seating arrangement.
+Action: Character 1 takes a small breath before answering and looks toward Character 2.
+Expression: Worried but restrained; natural concern, no crying or melodrama.
+Body language: Small downward glance, then eye contact toward Character 2.
+Dialogue, Character 1: "Gue lagi mikirin biaya nikah."
+Sound: Soft office ambience; music remains understated.
+Continuity: No smartphone or product UI interaction.
+
+06.5s–10.0s:
+Location: Same office.
+Shot: Static medium close-up of Character 2.
+Position: Character 2 remains on the RIGHT.
+Action: Character 2 listens and gives a small acknowledging reaction, leaning only
+slightly toward Character 1.
+Expression: Warm, curious and supportive.
+Body language: Relaxed shoulders, attentive posture.
+Dialogue, Character 2: "Kenapa? Emang udah mulai dihitung-hitung?"
+Sound: Office ambience and soft acoustic music.
+Continuity: No product reveal. No smartphone interaction.
+
+SCENE 2 — THE WEDDING DREAM
+Duration: 10.0s–20.0s
+
+10.0s–13.5s:
+Location: Same modern office.
+Shot: Static medium two-shot, eye-level.
+Position: Character 1 LEFT, Character 2 RIGHT.
+Action: Character 1 becomes slightly more animated as she explains that she already
+has a wedding vision in mind. Character 2 listens.
+Expression: Character 1 shifts from worry to restrained excitement.
+Body language: Natural conversational hand gesture.
+Dialogue, Character 1: "Sebenernya gue udah kebayang banget wedding impian gue."
+Sound: Music becomes subtly warmer while office ambience remains present.
+Continuity: Keep both characters seated exactly as established.
+
+13.5s–17.0s:
+Location: Same office.
+Shot: Static medium close-up of Character 1.
+Position: Character 1 remains LEFT.
+Action: Character 1 briefly looks upward as if visualizing her future wedding.
+Expression: Genuine excitement and imagination.
+Body language: Small natural hand gesture while describing the scene.
+Dialogue, Character 1:
+"Gue pengen yang intimate, banyak bunga, outdoor..."
+"Terus lighting-nya warm, cantik gitu."
+Sound: Warm acoustic texture, still restrained.
+Continuity: Do NOT cut to a wedding location. The wedding is only being imagined verbally.
+Do NOT show the Mega Rencana UI.
+
+17.0s–20.0s:
+Location: Same office.
+Shot: Static medium close-up of Character 2.
+Position: Character 2 remains RIGHT.
+Action: Character 2 smiles slightly because she understands the kind of wedding
+Character 1 means.
+Expression: Friendly, amused and supportive.
+Body language: Small natural nod.
+Dialogue:
+Character 2: "Yang kayak wedding impian lo banget?"
+Character 1: "Iya."
+Sound: Natural conversational pause between lines.
+Continuity: Maintain platonic best-friend relationship.
+
+SCENE 3 — THE FINANCIAL PROBLEM
+Duration: 20.0s–30.0s
+
+20.0s–23.5s:
+Location: Same modern office.
+Shot: Static medium close-up of Character 1.
+Position: Character 1 remains LEFT.
+Action: Her excitement fades slightly as she returns to the financial concern.
+Expression: Worried and realistic.
+Body language: Hands come together again; shoulders become slightly more subdued.
+Dialogue, Character 1:
+"Tapi pas gue hitung-hitung..."
+"Kayaknya bakal gede banget biayanya."
+Sound: Music becomes slightly more restrained.
+Continuity: No smartphone interaction and no product UI.
+
+23.5s–26.5s:
+Location: Same office.
+Shot: Static medium two-shot.
+Position: Character 1 LEFT, Character 2 RIGHT.
+Action: Character 1 continues explaining while Character 2 listens without interrupting.
+Expression: Character 1 looks conflicted; Character 2 remains attentive.
+Body language: Character 1 gives a small sigh; Character 2 maintains open listening posture.
+Dialogue, Character 1:
+"Gue takut ujung-ujungnya harus banyak ngurangin."
+Sound: Office ambience remains natural; music stays restrained.
+Continuity: Character 2 does not touch the smartphone because there is no smartphone
+interaction yet.
+
+26.5s–30.0s:
+Location: Same modern office.
+Shot: Static medium close-up of Character 1.
+Position: Character 1 remains LEFT; Character 2 is visible or implied on the RIGHT.
+Action: Character 1 looks toward Character 2 and finishes explaining her concern.
+Expression: Vulnerable but composed; no tears or melodrama.
+Body language: Calm but slightly tense posture; she finishes and waits for Character 2's response.
+Dialogue, Character 1:
+"Padahal gue nggak mau impian gue jadi biasa aja cuma gara-gara biayanya."
+Sound: Music holds a quiet emotional tension and leaves a natural conversational beat
+at the end of the range.
+Continuity: At exactly 30.0s, Character 1 has finished speaking and is looking toward
+Character 2. Character 2 is poised to respond.
+
+PART 1 → PART 2 TRANSITION AT EXACTLY 30.0s:
+The visual state at 30.0s must directly continue into Part 2 Scene 4.
+Do not reset the characters, seating, wardrobe, office or emotional state.
+Part 2 begins with Character 2 responding:
+"Ya nggak usah ngorbanin impian lo."
+
+PART 2 — SECOND 30 SECONDS
+
+The two parts are generated separately as two 30-second videos,
+but they MUST be treated as one continuous 60-second commercial.
+
+PART 1:
+00.0s — 30.0s
+
+PART 2:
+30.0s — 60.0s
+
+The visual identity, character identity, wardrobe continuity,
+location continuity, emotional continuity, prop continuity and
+story chronology must remain consistent across both parts.
+
+The final state of Part 1 at exactly 30.0s must logically and
+visually connect to the opening state of Part 2 at exactly 30.0s.
+
+
+{{CONTENT_FORMAT}}
+
+Cinematic Commercial
+
+
+{{VIDEO_DURATION}}
+
+60 Seconds total
+
+Generated as:
+
+Part 1 = 30 Seconds
+Part 2 = 30 Seconds
+
+
+{{ASPECT_RATIO}}
+
+16:9 Landscape
+
+
+{{NUMBER_OF_SCENES}}
+
+6 Scenes total
+
+PART 1:
+Scene 1 — 00.0s–10.0s
+Scene 2 — 10.0s–20.0s
+Scene 3 — 20.0s–30.0s
+
+PART 2:
+Scene 4 — 30.0s–40.0s
+Scene 5 — 40.0s–50.0s
+Scene 6 — 50.0s–60.0s
+
+
+{{CONTENT_STYLE}}
+
+Polished / Brand-led / Relatable / Aspirational / Scripted
+
+
+{{GENRE_THEME}}
+
+Lifestyle / Slice-of-life / Emotional
+
+
+{{CORE_CONCEPT}}
+
+Two best friends have a casual conversation in a modern office.
+
+One of them is worried about the cost of her dream wedding.
+
+Her best friend reassures her that she does not need to sacrifice
+the dream simply because it requires a significant budget.
+
+Instead, she can set a clear financial target and prepare gradually
+with Mega Rencana.
+
+The conversation naturally leads into taking action and turning an
+intimidating future expense into a concrete financial plan.
+
+The story ultimately shows the emotional payoff of turning the
+wedding dream into a prepared financial goal.
+
+
+{{COMMUNICATION_OBJECTIVE}}
+
+Consideration / Product Education
+
+
+{{CONSUMER_HUMAN_INSIGHT}}
+
+A large financial goal feels more achievable when it is turned into
+a clear target and prepared for gradually instead of being treated
+as one overwhelming future expense.
+
+
+{{HOOK}}
+
+One best friend responds to the other's wedding-cost anxiety with
+a simple idea:
+
+She does not have to give up the wedding she wants — she needs to
+start planning for it.
+
+
+{{HOOK_TYPE}}
+
+Dialogue / Solution / Relatable Situation
+
+
+{{MAIN_MESSAGE}}
+
+You do not have to immediately sacrifice your dream because of the cost.
+
+Set the goal, start preparing early and build toward it gradually
+with Mega Rencana.
+
+
+{{SELLING_STYLE}}
+
+Soft Sell / Demonstration / Show-don't-tell
+
+
+{{EMOTIONAL_ARC}}
+
+Worried
+→ reassured
+→ curious
+→ taking action
+→ hopeful
+→ joyful fulfillment
+
+
+{{SCENE_BLUEPRINT}}
+
+PART 1 — FIRST 30 SECONDS
+
+PART 1 uses the authoritative detailed story, dialogue and shot-by-shot timeline
+defined below.
+
+Do not invent, paraphrase, reorder, shorten or extend any Part 1 dialogue.
+Do not add dialogue or story beats outside the approved timeline.
+Every Part 1 shot must follow the Character Lock, Location Lock, Prop Lock,
+Product Lock and Visual Continuity Lock defined below.
+
+Part 1 ends exactly at 30.0 seconds with Character 1 looking toward Character 2,
+ready for Character 2's opening response in Part 2.
+
+
+SCENE 1 — PART 1
+
+Duration:
+00.0s–10.0s
+
+[APPROVED PART 1 STORY / SHOT TIMELINE REQUIRED]
+
+
+SCENE 2 — PART 1
+
+Duration:
+10.0s–20.0s
+
+[APPROVED PART 1 STORY / SHOT TIMELINE REQUIRED]
+
+
+SCENE 3 — PART 1
+
+Duration:
+20.0s–30.0s
+
+[APPROVED PART 1 STORY / SHOT TIMELINE REQUIRED]
+
+
+PART 2 — SECOND 30 SECONDS
+
+SCENE 4 — THE SOLUTION
+
+Duration:
+30.0s–40.0s
+
+Two best friends are sitting together inside the same modern office.
+
+Character 1 is concerned about the cost of her dream wedding.
+
+Character 2 calmly reassures her.
+
+She explains that Character 1 does not need to sacrifice her
+dream wedding.
+
+Instead, she can start by setting a clear financial target and
+preparing gradually with Mega Rencana.
+
+Character 1 becomes curious and hopeful.
+
+
+SCENE 5 — START THE PLAN
+
+Duration:
+40.0s–50.0s
+
+Inside the same office, Character 1 takes out her smartphone.
+
+She opens Mega Rencana and begins setting her wedding savings goal.
+
+Her target is:
+
+Rp350,000,000
+
+with a:
+
+2-year timeline.
+
+She reviews the plan and confirms that she wants to start.
+
+Character 2 remains beside her and reacts with a small encouraging
+smile.
+
+The emotional feeling is simple:
+
+The intimidating wedding cost has now become a concrete plan.
+
+
+SCENE 6 — THE DREAM BECOMES REAL
+
+Duration:
+50.0s–60.0s
+
+Time jump into the future.
+
+Character 1 is now celebrating her wedding.
+
+The wedding visually reflects the dream she had imagined:
+
+white flowers,
+small warm decorative lights,
+cream and white details,
+lush greenery,
+an intimate outdoor atmosphere.
+
+Character 1 celebrates naturally with her husband.
+
+Character 2 may appear as the best friend attending the wedding,
+maintaining the exact same identity established in the office scenes.
+
+The dream that once felt financially overwhelming has become real.
+
+
+{{SCENE_TIME_LOCK}}
+
+THIS IS A HARD EXECUTION TIMELINE.
+
+The time ranges below define exactly when an action, reaction,
+dialogue, product interaction, transition or visual beat occurs.
+
+Every second of the commercial must be assigned to a defined
+time range.
+
+There must be:
+
+NO timing gaps.
+NO overlapping timing ranges.
+NO reordered dialogue.
+NO compressed dialogue.
+NO extended dialogue.
+NO unassigned story beats.
+NO additional dialogue.
+NO improvised scenes.
+
+Each time range must contain enough detail for the video-generation
+model to understand:
+
+1. LOCATION
+2. SHOT TYPE
+3. CHARACTER POSITION
+4. CHARACTER ACTION
+5. FACIAL EXPRESSION
+6. BODY LANGUAGE
+7. DIALOGUE
+8. PROP INTERACTION
+9. PRODUCT/UI INTERACTION when applicable
+10. SOUND / MUSIC
+11. CONTINUITY REQUIREMENTS
+
+
+────────────────────────────────────────
+PART 1 — 00.0s–30.0s
+────────────────────────────────────────
+
+00.0s–03.0s:
+LOCATION: Modern contemporary office, exactly matching @Image 3.
+SHOT TYPE: Static medium two-shot, eye-level.
+CHARACTER POSITION: Character 1 LEFT; Character 2 RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 looks distracted and thoughtful;
+Character 2 notices and turns attention toward her.
+DIALOGUE: Character 2 — "Lo kenapa dari tadi diem?"
+PROP / PRODUCT: No smartphone interaction. No Mega Rencana UI.
+SOUND / MUSIC: Natural office ambience; soft cinematic acoustic music begins subtly.
+CONTINUITY: Exact character identities, wardrobe, seating and office layout.
+
+03.0s–06.5s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 1 LEFT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 takes a small breath, briefly looks down,
+then looks toward Character 2; worried but restrained.
+DIALOGUE: Character 1 — "Gue lagi mikirin biaya nikah."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Soft office ambience and restrained acoustic music.
+CONTINUITY: No product reveal and no smartphone interaction.
+
+06.5s–10.0s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 2 RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 2 listens, gives a small acknowledging
+reaction and remains warm and supportive.
+DIALOGUE: Character 2 — "Kenapa? Emang udah mulai dihitung-hitung?"
+PROP / PRODUCT: None.
+SOUND / MUSIC: Office ambience and soft acoustic music.
+CONTINUITY: Maintain established seating and identity.
+
+10.0s–13.5s:
+LOCATION: Same office.
+SHOT TYPE: Static medium two-shot, eye-level.
+CHARACTER POSITION: Character 1 LEFT; Character 2 RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 becomes slightly more animated and
+explains that she already has a wedding vision; Character 2 listens.
+DIALOGUE: Character 1 — "Sebenernya gue udah kebayang banget wedding impian gue."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Music becomes subtly warmer.
+CONTINUITY: Both remain seated; no wedding cutaway.
+
+13.5s–17.0s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 1 LEFT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 looks upward briefly as if visualizing
+the wedding; genuine excitement.
+DIALOGUE: Character 1 — "Gue pengen yang intimate, banyak bunga, outdoor..."
+Character 1 — "Terus lighting-nya warm, cantik gitu."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Warm acoustic texture.
+CONTINUITY: Do not show the actual wedding or product UI.
+
+17.0s–20.0s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 2 RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 2 smiles and gives a small natural nod.
+DIALOGUE: Character 2 — "Yang kayak wedding impian lo banget?"
+Character 1 — "Iya."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Natural conversational pause.
+CONTINUITY: Platonic best-friend relationship only.
+
+20.0s–23.5s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 1 LEFT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1's excitement fades; hands come together;
+she looks concerned.
+DIALOGUE: Character 1 — "Tapi pas gue hitung-hitung..."
+Character 1 — "Kayaknya bakal gede banget biayanya."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Music becomes more restrained.
+CONTINUITY: No smartphone interaction.
+
+23.5s–26.5s:
+LOCATION: Same office.
+SHOT TYPE: Static medium two-shot.
+CHARACTER POSITION: Character 1 LEFT; Character 2 RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 continues while Character 2 listens
+without interrupting; Character 1 gives a small sigh.
+DIALOGUE: Character 1 — "Gue takut ujung-ujungnya harus banyak ngurangin."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Natural office ambience; restrained music.
+CONTINUITY: Character 2 does not touch or operate a phone.
+
+26.5s–30.0s:
+LOCATION: Same office.
+SHOT TYPE: Static medium close-up.
+CHARACTER POSITION: Character 1 LEFT; Character 2 remains RIGHT.
+ACTION / EXPRESSION / BODY LANGUAGE: Character 1 looks toward Character 2 and finishes
+her concern; vulnerable but composed.
+DIALOGUE: Character 1 — "Padahal gue nggak mau impian gue jadi biasa aja cuma gara-gara biayanya."
+PROP / PRODUCT: None.
+SOUND / MUSIC: Quiet emotional tension, followed by a natural conversational beat.
+CONTINUITY: At exactly 30.0s, Character 1 has finished speaking and looks toward
+Character 2. Part 2 begins from this exact emotional and visual state.
+
+X.Xs - X.Xs:
+
+[Exact location and shot type].
+[Character action / reaction].
+[Dialogue if applicable].
+[Prop interaction if applicable].
+Sound: [specific sound direction].
+
+Continue until:
+
+29.Xs - 30.0s:
+
+[Final Part 1 visual state].
+[Exact character positions].
+[Exact emotional state].
+Sound: [music / ambience].
+
+PART 1 END STATE:
+
+The characters, wardrobe, location, props and emotional state at
+exactly 30.0s must be explicitly defined.
+
+This state becomes the starting state for Part 2.
+
+
+────────────────────────────────────────
+PART 2 — 30.0s–60.0s
+────────────────────────────────────────
+
+The following detailed timing applies to the approved Part 2 story.
+
+
+30.0s - 34.0s:
+
+Modern contemporary office interior, medium two-shot.
+
+Character 1 remains seated on the LEFT and Character 2 remains seated
+on the RIGHT.
+
+The framing preserves the same office architecture, seating,
+lighting direction, material palette and environmental identity
+established in Part 1.
+
+Character 1 remains concerned about the cost of her dream wedding.
+
+Character 2 listens attentively and responds with a calm,
+supportive expression.
+
+Dialogue, Character 2:
+
+"Ya nggak usah ngorbanin impian lo."
+
+Sound: soft natural office ambience, subtle room tone and gentle
+cinematic music continuing from Part 1.
+
+
+34.0s - 35.8s:
+
+Modern office, medium close-up on Character 1.
+
+Character 1 turns slightly toward Character 2.
+
+Her expression changes from concern to curiosity.
+
+She asks naturally and briefly.
+
+Dialogue, Character 1:
+
+"Terus?"
+
+Sound: subtle office ambience, music remains restrained to leave
+space for the dialogue.
+
+
+35.8s - 40.0s:
+
+Modern office, medium two-shot.
+
+Character 2 remains on the RIGHT.
+
+Character 1 remains on the LEFT.
+
+Character 2 explains the practical solution calmly.
+
+Her body language is supportive and confident without becoming
+overly dramatic.
+
+Character 1 listens carefully.
+
+Dialogue, Character 2:
+
+"Set target dari sekarang. Pake Mega Rencana, nabungnya jadi lebih
+terarah."
+
+Sound: warm office ambience, soft piano and gentle acoustic texture
+gradually becoming more hopeful.
+
+
+40.0s - 43.5s:
+
+Modern office, medium close-up on Character 1.
+
+Character 1 takes out the recurring smartphone reference
+@Image 6.
+
+She holds the smartphone naturally.
+
+The smartphone must be operated ONLY by Character 1.
+
+Character 2 remains beside her and watches naturally.
+
+Character 1 begins thinking through the wedding target.
+
+Dialogue, Character 1:
+
+"Target nikah... dua tahun lagi."
+
+Sound: subtle smartphone handling sound, natural office ambience,
+music remains gentle.
+
+
+43.5s - 45.5s:
+
+Modern office, over-the-shoulder / medium close-up toward the
+smartphone.
+
+Character 1 begins interacting with the Mega Rencana interface.
+
+The smartphone itself must match @Image 6.
+
+The Mega Rencana interface must match Product 1 / @Image 4.
+
+Character 2 remains visible naturally in the background or beside
+Character 1.
+
+Dialogue, Character 2:
+
+"Nah. Tinggal mulai."
+
+Sound: subtle phone interaction sound, soft confirmation-like UI
+sound, gentle music continuing.
+
+
+45.5s - 50.0s:
+
+Modern office, over-the-shoulder product-focused shot.
+
+Character 1 reviews the Mega Rencana savings setup.
+
+The product interface must clearly communicate:
+
+Smile / M Smile branding
+
+Tabungan Mega Rencana
+
+BIAYA ACARA PERNIKAHAN
+
+Target Menabung:
+Rp350.000.000
+
+Jangka Waktu:
+2 Tahun
+
+BUKA SEKARANG
+
+Use @Image 4 as the exact visual reference for the product UI.
+
+Do not redesign the uploaded interface.

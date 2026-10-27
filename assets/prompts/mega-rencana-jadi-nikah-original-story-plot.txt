@@ -1,0 +1,194 @@
+Generate a 60-second film from the provided first frame.
+
+Core concept:
+A cinematic drama shot piece in 20 shots across 2 location(s): car interior; wedding venue.
+
+Characters — STRICT IDENTITY LOCK:
+
+There are ONLY TWO HUMAN CHARACTERS in the entire story. They are the same two people from beginning to end. Do NOT create, replace, reinterpret, recast, or introduce additional human characters.
+
+CHARACTER 1 — MALE DRIVER
+Reference: @Image 1
+
+This is the ONLY male character in the story.
+He is the driver in every car scene.
+Keep his face, identity, age, hairstyle, body type, skin tone, and overall appearance identical to @Image 1 across ALL shots.
+Outfit: grey casual button-down shirt over a white undershirt — the same outfit in every shot.
+Whenever the prompt says “driver,” “man,” “male,” “driving man,” or “groom,” it ALWAYS refers to this exact same person from @Image 1. These are role/context labels, NOT different characters.
+Never generate another male person to fill any of these descriptions.
+CHARACTER 2 — FEMALE PASSENGER
+Reference: @Image 2
+
+This is the ONLY female character in the story.
+She is the passenger in every car scene.
+Keep her face, identity, age, hairstyle, body type, skin tone, and overall appearance identical to @Image 2 across ALL shots.
+Keep her established passenger wardrobe consistent unless the scene explicitly transitions to their wedding.
+Whenever the prompt says “passenger,” “passenger woman,” “woman,” “young woman,” “concerned woman,” or “upset passenger woman,” it ALWAYS refers to this exact same person from @Image 2. These are role/emotion/context labels, NOT different characters.
+Never generate another female person to fill any of these descriptions.
+RELATIONSHIP / STORY CONTINUITY
+
+The male driver and female passenger are the SAME COUPLE throughout the entire film. They are discussing and planning their wedding. Their emotions may change from confused, concerned, frustrated, thoughtful, happy, affectionate, and excited, but their physical identity must never change.
+
+ABSOLUTE CHARACTER CONTINUITY RULE
+
+@Image 1 = THE SAME MALE PERSON FROM START TO FINISH.
+@Image 2 = THE SAME FEMALE PERSON FROM START TO FINISH.
+
+Do NOT treat “driver,” “man,” “passenger,” “woman,” “young woman,” “concerned woman,” “upset passenger woman,” “driving man,” “bride,” or “groom” as separate cast members. They are descriptors referring to the same two reference characters.
+
+Do NOT cast a different actor because the emotion, camera angle, lighting, clothing, or scene changes. Do NOT change facial identity between shots. Do NOT introduce additional foreground characters.
+
+CAR POSITION LOCK
+
+@Image 1 is ALWAYS in the driver’s seat.
+@Image 2 is ALWAYS in the front passenger seat.
+Maintain consistent seating positions, proportions, wardrobe, and identity across every car shot.
+Camera angle changes must NOT cause character reassignment.
+WEDDING CONTINUITY
+
+When the story transitions to the wedding imagery:
+
+@Image 2 becomes the bride.
+@Image 1 becomes the groom.
+They are the SAME couple established in the car.
+Wedding clothing may change appropriately for the wedding, but their facial identities and recognizable appearance must remain consistent with @Image 1 and @Image 2.
+Props:
+steering wheel, seatbelt, rearview mirror, car seat, headrest, car steering wheel, car seatbelt, car headrest, car dashboard, car seatbelts, rain on car windows, car seat headrest, car window with raindrops, car interior, smartphone, smartphone with mobile banking app displayed on screen, smartphone displaying banking app, car rearview mirror, hanging string, printed polaroid wedding photo, bridal bouquet, wedding rings, decorated floral arch
+
+Character continuity:
+The two principal characters are permanently locked to the reference images: @Image 1 is the male driver/groom and @Image 2 is the female passenger/bride. They remain the same two people throughout every scene. Role, emotion, camera angle, lighting, and wardrobe changes must never create a new identity. Background people may appear only briefly and out of focus.
+
+Locations:
+
+car interior
+wedding venue
+Camera style:
+
+cinematic commercial drama
+cinematic commercial footage, interior car camera
+cinematic medium close-up, dramatic narrative style
+cinematic drama with handheld feel
+cinematic narrative dialogue shot
+cinematic commercial footage
+cinematic narrative footage
+cinematic shallow-depth car interior drama
+cinematic car interior shot, night drama
+cinematic drama, static camera shot inside a vehicle
+cinematic shallow focus narrative drama
+cinematic car interior shot
+handheld commercial lifestyle footage
+cinematic romantic narrative style
+cinematic shallow-depth night interior shot
+bright cinematic commercial style
+static graphic commercial card with photo display
+medium shot, shallow depth of field with soft bokeh background
+medium close-up, shallow depth of field
+medium shot, shallow depth of field with soft bokeh
+medium close-up, shallow depth of field focusing on the passenger
+medium close-up, shallow depth of field with blurred background
+medium close-up, shallow depth of field with blurred car background
+medium close-up with shallow depth of field, focused on the driver
+medium close-up, shallow depth of field with soft bokeh background
+medium shot, shallow depth of field focusing on passenger
+medium close-up, shallow depth of field with soft bokeh through the car window
+medium close shot with shallow depth of field and soft background bokeh
+medium close-up focused on smartphone screen, shallow depth of field on background
+medium two-shot, shallow depth of field
+medium shot over the shoulders showing the phone interface centered
+medium close-up focused on the rearview mirror and wedding photo with shallow depth of field
+medium framing of couple centered inside photo frame
+Scene timing:
+
+0.0s - 5.0s:
+car interior, medium shot. @Image 1 is driving while @Image 2 sits in the front passenger seat. The male driver glances briefly toward her with a playful, affectionate expression, then looks back at the road. He begins the conversation naturally and happily. Dialogue, male: “Sayang! Gimana kalau kita nikahnya di restoran aja?” Sound: natural car engine hum, subtle road ambience.
+
+5.0s - 6.4s:
+car interior, medium close-up focused on @Image 2 in the passenger seat. She turns toward @Image 1 with a genuinely surprised, puzzled expression. Dialogue, female: “Hah?” Sound: subtle car interior ambience.
+
+6.4s - 11.3s:
+car interior, medium shot of @Image 1 driving. He explains his practical idea casually, alternating his gaze between the road and a brief glance toward @Image 2. He gestures naturally while keeping control of the steering wheel. Dialogue, male: “Undang keluarga inti sama temen deket. Lagi ngetren kan, nikah simple. Hemat, bisa buat DP rumah.” Sound: low road hum.
+
+11.3s - 15.0s:
+car interior, medium close-up of @Image 2. Her expression becomes slightly disappointed and emotional. She looks ahead, then turns toward @Image 1 as she explains what the day means to her. Dialogue, female: “Tapi aku pengen hari itu jadi paling spesial buat kita.” Sound: subtle cabin ambience.
+
+15.0s - 20.9s:
+car interior, medium two-shot. @Image 2 continues explaining while @Image 1 listens and drives. She becomes more earnest when mentioning her family. @Image 1 gives small attentive reactions without interrupting. Dialogue, female: “Papa mama juga pasti nggak setuju. Keluargaku kan banyak banget.” Sound: car engine hum, light rain ambience.
+
+20.9s - 24.5s:
+car interior, medium close-up on @Image 1. He looks at her with curiosity and affection, then returns his eyes to the road. Dialogue, male: “Emang kamu kebayangnya gimana sih, yang?” Sound: natural car interior ambience.
+
+24.5s - 29.4s:
+car interior, medium close-up on @Image 2. Her mood brightens as she imagines her dream wedding. She speaks enthusiastically with expressive gestures and a soft smile. Dialogue, female: “Akad pagi, sorenya resepsi. Garden party estetik… foto prewed di pantai sama gunung. Bridesmaid juga pake seragam. Pasti bagus banget.” Sound: gentle emotional music begins to lift underneath the car ambience.
+
+29.4s - 34.5s:
+car interior, medium close-up on @Image 2. She finishes her excited explanation, notices that @Image 1 has gone quiet, and turns toward him with a questioning expression. Dialogue, female: “Kok diem aja sih, yang? Menurut kamu gimana?” Sound: music softens, leaving room for the emotional beat.
+
+34.5s - 39.5s:
+car interior, medium close-up on @Image 1. He pauses thoughtfully, looks at her warmly, then smiles. His response is sincere rather than comedic. Dialogue, male: “Aku juga pengennya hari itu jadi hari paling spesial buat kita.” Sound: warm emotional piano and soft car ambience.
+
+39.5s - 43.5s:
+car interior, medium two-shot. @Image 1 continues driving while speaking practically but lovingly. @Image 2 listens and begins to smile. Dialogue, male: “Tapi dari sekarang kita harus bener-bener siapin dananya.” Sound: gentle emotional music continues.
+
+43.5s - 48.5s:
+car interior, medium close-up of @Image 2. She suddenly remembers something, smiles, reaches for her smartphone, and turns the screen toward @Image 1. Dialogue, female: “Yang, liat ini deh. Aku udah simulasiin target tabungan nikah kita.” The phone screen clearly shows a wedding savings goal simulation for @Image 3. Product: @Image 3 mobile banking interface. Sound: subtle phone interaction sounds and car ambience.
+
+48.5s - 52.5s:
+car interior, medium two-shot. @Image 1 looks at the smartphone, reacts with genuine surprise and optimism, then looks affectionately at @Image 2. Dialogue, male: “Wah… kalau gitu wedding dream kita bisa diwujudin. Siapin dari sekarang, ah.” Sound: music becomes warmer and more uplifting.
+
+52.5s - 55.0s:
+car interior, medium two-shot. @Image 2 smiles playfully after hearing him. She keeps holding the phone between them and immediately thinks one step further. Dialogue, female: “Berarti honeymoon juga harus direncanain. Ke mana ya?” Sound: light romantic ambience.
+
+55.0s - 56.5s:
+car interior, medium close-up on @Image 1. He gives her a playful sideways glance and amused smile while keeping his attention on the road. Dialogue, male: “Bisa aja kamu!” Sound: brief lighthearted musical accent.
+
+56.5s - 60.0s:
+transition from the intimate car scene into a warm, aspirational wedding visual. Show the SAME @Image 1 and @Image 2 as groom and bride, clearly recognizable as the same couple, with elegant wedding styling and a romantic garden-party atmosphere. End on a beautiful image of the couple together, visually connecting their wedding dream to the savings plan. Female narrator voiceover, warm and reassuring: “Karena nikah butuh biaya, bukan sekadar cinta. Biar jadi, siapin dananya di Tabungan Mega Rencana.” Product branding may appear only as part of the natural final promotional composition; no burned-in subtitles or captions. Sound: uplifting emotional music resolves warmly.
+
+Realism:
+
+dim interior ambient with streetlights passing outside, soft fill on the driver's face
+dim interior ambient light with soft side illumination
+soft cabin interior light with blurred bokeh streetlights outside
+dim interior lighting with soft ambient street light spilling through the windshield
+dim interior ambient light with soft bokeh and street lights outside
+dim interior vehicle illumination with soft ambient fill from exterior street lights
+soft natural light filtering through car window, warm interior tones
+soft diffused daylight through car windows, low contrast
+subdued ambient light from car dashboard and passing streetlights
+soft warm key light on face, dark background with subtle bokeh
+low-key cool ambient lighting with soft side fill from window reflections
+dim interior vehicle light mixed with soft bokeh streetlights through rain-streaked window
+low key warm cabin lighting with cool exterior streetlights and reflections through rain-streaked windows
+dim cool interior ambient light with soft highlights on the face
+dim interior ambient light with soft bokeh city lights through the rear window
+dim ambient interior car lighting with neon accents and screen glow
+warm dashboard and ambient interior lighting against dark surroundings
+dim night lighting with warm glow from the smartphone screen and blurred streetlights
+soft natural daylight coming through the windshield with bright background bokeh
+bright, even daylight
+moody night tones, cool blues and warm interior lighting accents
+moody cool teal and warm skin tones, low key
+cool blue and grey tones with warm street light highlights
+cool muted tones with soft warm ambient highlights inside the dark vehicle
+cool moody blues with warm interior highlights
+cool blue tones, deep dark shadows, warm skin highlights
+warm daylight, soft golden and beige tones
+cool blue tones, natural skin tones, muted vehicle interior
+cool blue-toned exterior background with warm ambient light on the face
+warm skin tones against deep dark blue and black shadows
+cool blue tones, deep blacks, muted skin tones
+moody nighttime tones, dark blues and soft warm bokeh
+moody blues and warm amber street tones
+cool blue tones with soft warm skin tones
+warm muted tones with soft golden interior lighting and dark night ambiance
+warm amber, orange UI accents, dark blue ambient car interior
+warm amber car interior tones, deep dark blues outside
+warm amber, teal shadows, glowing white from phone screen
+warm daylight with soft natural tones and sunny highlights
+vibrant orange background with soft white and navy tones
+Audio:
+Music across the shots: gentle emotional piano and strings, slow tempo, reflective; faint dramatic underscore; gentle background acoustic guitar music; soft emotional piano and string background score; subtle melancholic background score; upbeat, lighthearted acoustic pop background music; gentle emotional acoustic background music; gentle background acoustic score; upbeat, cheerful pop jingle; subtle upbeat electronic background music; gentle uplifting acoustic background melody; upbeat acoustic pop commercial music; warm acoustic background melody with light guitar and keys; upbeat, cheerful corporate commercial music.
+Voices stay unintelligible background ambience: no dialogue lines, no voice-over, no sung lyrics. Never generate speech that resolves into words.
+
+Final output:
+60 seconds; no captions or lower-thirds; no logo overlays; no burned-in text.
