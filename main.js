@@ -12,3 +12,8 @@ v.addEventListener('click',e=>{if(v.classList.contains('open')){if(e.target.clos
 if(m.querySelector('iframe'))return;
 document.querySelectorAll('.vid.open').forEach(o=>o.shut());
 const bp=v.querySelector('.bp');if(bp)v.classList.add('open');play();if(bp)v.scrollIntoView({behavior:'smooth',block:'start'})})});
+
+(()=>{const b=document.querySelector('.toc .par');if(!b)return;const s=document.getElementById(b.getAttribute('aria-controls'));
+const set=o=>{b.setAttribute('aria-expanded',o);s.hidden=!o};
+b.addEventListener('click',()=>{const o=b.getAttribute('aria-expanded')!=='true';set(o);if(o)location.hash='production'});
+const chk=()=>{if(/^#(production|playground)$/.test(location.hash))set(true)};chk();addEventListener('hashchange',chk)})();

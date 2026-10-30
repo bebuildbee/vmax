@@ -75,3 +75,19 @@ summary{cursor:pointer;font-weight:700}
 .fr img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .st figcaption{font-size:14px;margin-top:.4rem}.st b{display:block}
 .vid.wide .assets img{height:150px}
+
+.docs article>.step{max-width:none}
+.step{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:2rem;align-items:start;margin:1.8rem 0;padding-top:1.8rem;border-top:1px solid var(--sage)}
+.step figure img{width:100%;display:block;border:1px solid var(--sage);border-radius:10px}
+.step figcaption{font-size:15px;margin-top:.4rem}
+.step h3{color:var(--navy);margin:0 0 .6rem}
+.step .txt{max-width:60ch}
+.step.noimg{display:block}
+.toc .par{all:unset;box-sizing:border-box;cursor:pointer;color:var(--navy);display:flex;justify-content:space-between;align-items:center;width:100%;font:inherit}
+.toc .par:hover,.toc .par:focus-visible{color:var(--orange)}
+.toc .par span::before{content:"+";font-weight:700}
+.toc .par[aria-expanded=true] span::before{content:"\2212"}
+.toc .sub{display:grid;gap:.5rem;padding:.6rem 0 .2rem 1rem;margin-left:.2rem;border-left:2px solid var(--amber)}
+.toc .sub[hidden]{display:none}
+@media(max-width:860px){.step{grid-template-columns:1fr;gap:1rem}}
+.docs h3.sub-h{color:var(--navy);margin:2rem 0 0}
